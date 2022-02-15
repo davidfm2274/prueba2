@@ -1,0 +1,4 @@
+total 36
+-rwxrwxrwx 1 david david 35149 Feb 15 19:37 LICENSE
+-rwxrwxrwx 1 david david    13 Feb 15 19:37 README.md
+-rwxrwxrwx 1 david david     0 Feb 15 23:30 ls.txt
