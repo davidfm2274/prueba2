@@ -12,5 +12,5 @@ texto normal
 * añadimos linea en feature2 (tras añadir linea en f2_1) posible conflicto
 * modificacion en f2_1
 
-## _Texto Señalado_
+## `Texto Señalado`
 
